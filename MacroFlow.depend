@@ -1,0 +1,61 @@
+# depslib dependency file v1.0
+1762691545 source:c:\users\nolan\downloads\macroflow\macroflow\main.cpp
+	<windows.h>
+	<commctrl.h>
+	"MainWindow.h"
+
+1763150571 c:\users\nolan\downloads\macroflow\macroflow\mainwindow.h
+	<windows.h>
+	<string>
+	<vector>
+	"MacroManager.h"
+	"HotkeyManager.h"
+	"MacroExecutor.h"
+
+1762691375 c:\users\nolan\downloads\macroflow\macroflow\macrodata.h
+	<string>
+	<vector>
+
+1763559635 source:c:\users\nolan\downloads\macroflow\macroflow\mainwindow.cpp
+	"MainWindow.h"
+	<windowsx.h>
+	<commctrl.h>
+	<commdlg.h>
+	<sstream>
+	<cstdio>
+
+1762695800 source:c:\users\nolan\downloads\macroflow\macroflow\resource.rc
+	<windows.h>
+
+1763150479 c:\users\nolan\downloads\macroflow\macroflow\macromanager.h
+	<string>
+	<vector>
+	<windows.h>
+
+1763150232 c:\users\nolan\downloads\macroflow\macroflow\hotkeymanager.h
+	<windows.h>
+	<string>
+	<map>
+
+1763150288 c:\users\nolan\downloads\macroflow\macroflow\macroexecutor.h
+	<windows.h>
+	<string>
+	<vector>
+
+1763150549 source:c:\users\nolan\downloads\macroflow\macroflow\hotkeymanager.cpp
+	"HotkeyManager.h"
+	<algorithm>
+
+1763150543 source:c:\users\nolan\downloads\macroflow\macroflow\macroexecutor.cpp
+	"MacroExecutor.h"
+	"MacroManager.h"
+	"HotkeyManager.h"
+	<thread>
+
+1763150930 source:c:\users\nolan\downloads\macroflow\macroflow\macromanager.cpp
+	"MacroManager.h"
+	<fstream>
+	<sstream>
+	<locale>
+	<codecvt>
+
